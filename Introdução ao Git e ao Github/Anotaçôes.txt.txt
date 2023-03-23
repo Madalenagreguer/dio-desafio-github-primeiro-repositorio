@@ -1,0 +1,7 @@
+Links para downloads:
+
+Git:https://git-scm.com/downloads
+Github:https://desktop.github.com/
+MongoDb:https://www.mongodb.com/try/download/compass
+VsCode:https://code.visualstudio.com/download
+Ruby:https://www.ruby-lang.org/pt/downloads/
